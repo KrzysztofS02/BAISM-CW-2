@@ -9,7 +9,7 @@ class CalculatorTest {
 
     @Test
     fun addition_isCorrect() {
-        assertEquals(99, calculator.add(2, 3))
+        assertEquals(5, calculator.add(2, 3))
     }
 
     @Test
